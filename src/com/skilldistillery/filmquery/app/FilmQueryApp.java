@@ -214,6 +214,7 @@ public class FilmQueryApp {
 		System.out.println("|_____________________________|");
 	}
 
+//	question: why doesn't this code work?:
 //	private void userErr() {
 //		System.err.print(" _____________________________ \n");
 //		System.err.print("|                             |\n");
